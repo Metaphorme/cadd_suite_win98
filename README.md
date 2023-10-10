@@ -12,6 +12,8 @@
 
 **你可以在这里下载所需要的版本：[https://github.com/Metaphorme/cadd_suite_win98/releases](https://github.com/Metaphorme/cadd_suite_win98/releases)**
 
+![在v86模拟器上运行Alchemy](./Diazepam.png)
+
 ## Todo
 
 1. Vmware 上有一些硬件驱动无法运行，但不对软件使用造成影响。
